@@ -1,5 +1,5 @@
 p {
-    color: darkblue;
+    color: purple;
     
 }
 
@@ -8,6 +8,12 @@ h3 {
     color: red;
 }
 
+
+
+h2 {
+    
+    color: limegreen;
+}
 
 @media only screen and (max-width: 500px) {
     body {
